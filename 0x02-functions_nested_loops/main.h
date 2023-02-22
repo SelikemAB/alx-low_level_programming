@@ -36,4 +36,14 @@ int _putchar(char c);
  * Return: 1 if c is lowercase, 0 otherwise
  */
 int _islower(int c);
+/**
+ * _isalpha(int c) - checks for alphabetic characters.
+ *
+ * Function takes 1 int argument
+ *
+ * @c: The character
+ * Return: 1 if c is a letter, lowercase or uppercase, 0 otherwise
+ */
+int _isalpha(int c);
+
 #endif
