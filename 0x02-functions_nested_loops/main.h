@@ -27,5 +27,13 @@ int _putchar(char c);
   * Return: The alphabets 10 times
   */
  void print_alphabet_x10(void);
-
+/**
+ * _islower - checks for lowercase character
+ *
+ * Function takes 1 int argument
+ *
+ * @c: The character
+ * Return: 1 if c is lowercase, 0 otherwise
+ */
+int _islower(int c);
 #endif
