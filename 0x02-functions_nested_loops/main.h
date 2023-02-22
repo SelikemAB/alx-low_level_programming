@@ -19,5 +19,13 @@ int _putchar(char c);
   * Return: The alphabets
   */
  void print_alphabet(void);
+/**
+  * print_alphabet_x10 - prints the alphabets 10 times, each on a new line.
+  *
+  * Function takes no argument.
+  *
+  * Return: The alphabets 10 times
+  */
+ void print_alphabet_x10(void);
 
 #endif
