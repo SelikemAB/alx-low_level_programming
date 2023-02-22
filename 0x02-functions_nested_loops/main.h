@@ -64,5 +64,14 @@ int print_sign(int n);
  * Return: 0
  */
 int _abs(int n);
+/**
+ * print_last_digit - prints the last digit of a number
+ *
+ * Function takes 1 int argument
+ *
+ * @n: The integer number
+ * Return: the value of the last digit
+ */
+int print_last_digit(int n);
 
 #endif
