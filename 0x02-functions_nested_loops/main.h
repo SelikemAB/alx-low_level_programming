@@ -45,5 +45,15 @@ int _islower(int c);
  * Return: 1 if c is a letter, lowercase or uppercase, 0 otherwise
  */
 int _isalpha(int c);
+/**
+ * print_sign - prints the sign of a number
+ *
+ * Function takes 1 int argument
+ *
+ * @n: The integer number
+ * Return: 1 and print + if n is positive, 0 and print 0 if n is zero
+ * -1 and print - if n is negative
+ */
+int print_sign(int n);
 
 #endif
