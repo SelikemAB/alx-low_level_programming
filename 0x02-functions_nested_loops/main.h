@@ -55,5 +55,14 @@ int _isalpha(int c);
  * -1 and print - if n is negative
  */
 int print_sign(int n);
+/**
+ * abs - computes absolute value of an integer
+ *
+ * Function takes 1 int argument
+ *
+ * @n: The integer number
+ * Return: 0
+ */
+int _abs(int n);
 
 #endif
