@@ -113,5 +113,15 @@ int add(int a, int b);
  * Return: nothing
  */
 void print_to_98(int n);
+/**
+ * print_times_table - prints the n times table, starting with 0
+ *
+ * Function takes 1 int argument
+ *
+ * @n: The integer whose times table to print
+ *
+ * Return: nothing
+ */
+void print_times_table(int n);
 
 #endif
