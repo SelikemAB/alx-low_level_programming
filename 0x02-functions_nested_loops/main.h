@@ -92,4 +92,16 @@ void jack_bauer(void);
  */
 void times_table(void);
 
+/**
+ * add - adds two integers and returns the result
+ *
+ * Function takes 2 int arguments
+ *
+ * @a: First int argument
+ * @b: Second int argument
+ *
+ * Return: the result of addition
+ */
+int add(int a, int b);
+
 #endif
