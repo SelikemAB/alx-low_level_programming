@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
  * main - prints Fizz for multiples of 3 and Buzz for multiples of 5 and prints FuzzBuzz when multiples of 3 and 5.
