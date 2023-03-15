@@ -1,4 +1,4 @@
-# Malloc, free
+# 0x0B. C -Malloc, free
 > Project done during ALX Full Stack Software Engineering Cohort 12. It aims to learn about automatic and dynamic memory allocation in C language. 
 ## Technologies
 - C files are compiled using gcc 9.4.0
