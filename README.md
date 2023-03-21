@@ -1,5 +1,5 @@
 # Low-level programming & Algorithm
-> A module of Low-level programming and algorithm, carried out during ALX Full Stack Software Engineering Program Cohort 12.
+> A module of Low-level programming and algorithm, carried out during ALX Full Stack Software Engineering Program.
 ## Technologies
 - C files are compiled using gcc 9.4.0
 - C files are written according to the Linux Kernel Coding Style.
