@@ -7,15 +7,15 @@
  * Description: printing all the elements of a listint_t list
  * Return: number of nodes
  */
-size_t print_listint(const listint_t *s)
+size_t print_listint(const listint_t *h)
 {
 	size_t num = 0;
 
-	while (s)
+	while (h)
 	{
-		printf("%d\n", s->n);
+		printf("%d\n", h->n);
 		num++;
-		s = s->next;
+		h = h->next;
 	}
 
 	return (num);
