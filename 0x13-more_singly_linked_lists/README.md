@@ -23,11 +23,3 @@ All of the following files are programs written in C:
 |` 101-print_listint_safe.c `| Prints a `listint_t` linked list |
 |` 102-free_listint_safe.c `| Frees a `listint_t` list |
 |` 103-find_loop.c `| Finds the loop in a linked list |
-~                                                                                                                                                                                                
-~                                                                                                                                                                                                
-~                                                                                                                                                                                                
-~                                                                                                                                                                                                
-~                                                                                                                                                                                                
-~                                                                                                                                                                                                
-~                                                                                                                                                                                                
-"README.md" 25L, 1475C                                                                                                                                                         1,8           All
